@@ -1,0 +1,15 @@
+Teixeira Garcia;Trabalhador;2222;PREFEITO;
+Reinaldo Ota;Trabalhador;1111;VEREADOR;
+Josenvaldo Soares;Republicano;4444;PREFEITO;
+Matias Valerio;Socialista;3333;VEREADO;
+Isaac Matheus;Socialista;5555;VEREADOR;
+Leonardo Fernando;Trabalhador;6666;PREFEITO;
+Frederico James;Republicano;7777;PREFEITO;
+Cristina de Fátima Rosa;Oposicao;9999;VEREADOR;
+Margarida Beatriz Vicente;Trabalhador;8585;VEREADOR;
+William David;Socialista;1010;PREFEITO;
+Emanuel Francisco Frederick;Socialista;2020;PREFEITO;
+Gabriel Raymond;Republicano;6987;VEREADOR;
+Alexandrino Manuel Riyam Mazin;Oposicao;3030;PREFEITO;
+Alexandra Daiana;Oposicao;4040;VEREADOR;
+Leonardo Celso;Socialista;8888;VEREADOR;
