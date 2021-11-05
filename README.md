@@ -23,8 +23,8 @@ Abaixo temos a interface eleitor:
 Para obter uma cópia deste projeto:
 
 ```shell
-git clone https://github.com/adrianomqsmts/Genius-Java
-cd Genius-Java
+git clone https://github.com/adrianomqsmts/UrnaEletronica-Java
+cd UrnaEletronica-Java
 ```
 ## 🛠️ Construído com
 
@@ -41,4 +41,5 @@ Ferramentas, linguagens e outras tecnologias usadas no desenvolvimento deste sis
 ## 📄 Licença
 
 Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](https://github.com/adrianomqsmts/Genius-Java/blob/master/LICENSE) para detalhes.
+
 ---
